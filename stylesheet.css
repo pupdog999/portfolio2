@@ -3,3 +3,8 @@
 body {
   font-family: 'Walter Turncoat', cursive;
 }
+
+h1 {
+  font-style: italic;
+  font-size: 40px;
+}
