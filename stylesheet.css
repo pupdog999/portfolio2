@@ -13,6 +13,7 @@ h1 {
   font-size: 40px;
   color: #091F6E;
   border: 5px dotted black;
+  float: center;
 }
 
 ul {
