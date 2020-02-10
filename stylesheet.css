@@ -7,9 +7,14 @@ body {
 h1 {
   font-style: italic;
   font-size: 40px;
+  color: #06A2BE
 }
 
 ul {
    font-style: italic;
    font-size: 15px;
+}
+
+p {
+  color: #955BE5
 }
