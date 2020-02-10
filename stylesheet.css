@@ -5,6 +5,7 @@ body {
   background-image: url("https://github.com/pupdog999/portfolio2/blob/master/v384-ning-07b-gradientbg_2.jpg?raw=true");
   background-repeat: no-repeat;
   background-position: center;
+  background-size: cover;
 }
 
 h1 {
