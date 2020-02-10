@@ -3,13 +3,15 @@
 body {
   font-family: 'Walter Turncoat', cursive;
   background-image: url("https://github.com/pupdog999/portfolio2/blob/master/v384-ning-07b-gradientbg_2.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 h1 {
   font-style: italic;
   font-size: 40px;
   color: #06A2BE;
-  border: 5px dotted navyblue;
+  border: 5px dotted black;
 }
 
 ul {
