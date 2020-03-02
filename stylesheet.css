@@ -40,13 +40,13 @@ p {
 
 .navbar {
   overflow: hidden;
-  background-color: #340AC7;
+  background-color: = #FFFFFF;
 }
 
 .navbar a {
   float: left;
   display: block;
-  color: #FFFFFF;
+  color: #000000;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -54,13 +54,12 @@ p {
 }
 
 .navbar a:hover {
-  background-color: #FFA2B4
+  background-color: #C3FBF3;
   color: #000000;
 }
 
 
 .navbar a.active {
-  background-color: #FFFFFF; 
-  color: Black;
+  background-color: #C3FBF3; 
+  color: black;
 }
- 
