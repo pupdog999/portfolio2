@@ -46,7 +46,7 @@ p {
 .navbar a {
   float: left;
   display: block;
-  color: #000000;
+  color: #FFFFFF;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -54,7 +54,7 @@ p {
 }
 
 .navbar a:hover {
-  background-color: #FFFFFF;
+  background-color: #FFA2B4
   color: #000000;
 }
 
