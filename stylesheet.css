@@ -16,11 +16,19 @@ body {
 h1 {
   font-style: italic;
   font-size: 40px;
-  color: #091F6E;
   border: 5px dotted black;
   float: center;
+  color: #0CA0FA;
+  animation-name: h1anim;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
 }
 
+@keyframes h1anim {
+  0% {color: #0CA0FA;}
+  50% {color: #D17AEF;}
+  100% {color: #FE8A9A;}
+}
 ul { 
    font-style: italic;
    font-size: 15px;
